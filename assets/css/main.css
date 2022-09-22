@@ -1,0 +1,174 @@
+ *{
+    font-family: 'Fira Sans', sans-serif;
+ }
+ .container{
+   width: 1510px;
+    max-height: 572px;
+    margin: auto;
+    background-color: #F2F3F6;
+    position:   absolute;
+    top: 0;
+    left: 0;
+ }
+ .menu{
+    width: 1440px;
+    height: 70px;
+    position: relative;
+    z-index: 1;
+    word-spacing: 20px;
+ }
+ .menu svg {
+    top: 30px;
+    left: 147px;
+    position:   relative;
+    z-index: 1;
+ }
+ .menu a{
+    color: black;
+ top: 20px;
+ position: relative;
+    left: 430px;
+ z-index: 1;
+ text-decoration: none;
+ }
+  a:hover {
+  color: rgb(111, 111, 255);
+ }
+ a:nth-child(5){
+    left: 690px;
+ }
+ .menu button{
+    top: 20px;
+    left: 700px;
+    color: white;
+ }
+ h1{
+    color: black;
+    width: 460px;
+    height: 260px;
+    top: 160px;
+    left: 147px;
+    position: relative;
+    font-size: 44px;
+}
+ p{
+    width: 460px;
+    height: 75px;
+    top: 2px;
+    left: 147px;
+    font-size:  16px;
+    position: relative;
+    color: black;
+}
+button{
+    background-color: blue;
+    width: 201px;
+    height: 49px;
+    top: -50x;
+    left: 373px;
+    border-radius: 5px;
+    position: relative;
+    color: white;
+    border: none;
+    z-index: 1;
+}
+button:hover{
+background-color: rgb(89, 89, 245);
+}
+h2{
+    width: 460px;
+    height: 86px;
+    top: 2227px;
+    left: 490px;
+    font-size: 36px;
+    line-height: 43.2px;
+    align-items: center;
+    position: relative;
+    font-size: 36px;
+    color: black;
+}
+.container svg {
+    top: -550px;
+    left: 850px;
+    position: relative;
+    width: 400px;
+}
+svg .logo {
+    position:  absolute;
+    top: 500px;
+    left: 40px;
+}
+input {
+    padding: 8px;
+    font-family: inherit;
+    height: 40px;
+    border-radius: 5px;
+  border: none;
+    box-shadow: 0px 4px 25px rgba(15, 17,  56,  0.1);
+  }
+  
+  label {
+    display: flex;
+    flex-direction: column;
+ top: -760px;
+ left: 140px;
+ width: 450px;
+ height: 90px;
+ position: relative;
+  }
+ .example p:nth-child(1){
+    position: relative;
+    z-index: 1;
+    color:  gray;
+ width: 12px;
+ top: -800px;
+ left: 140px;
+  }
+  .example p:nth-child(2){
+    position: relative;
+    z-index: 1;
+    color:  gray;
+ width: 100px;
+ top: -890px;
+ left: 240px;
+  }
+  .example p:nth-child(3){
+    position: relative;
+    z-index: 1;
+    color:  gray;
+ width: 100px;
+ top: -980px;
+ left: 330px;
+  }
+  .example p:nth-child(4){
+    position: relative;
+    z-index: 1;
+    color:  gray;
+ width: 100px;
+ top: -1071px;
+ left: 420px;
+  }
+h3{
+width: 460px;
+height: 1009px;
+top: 852px;
+left: 147px;
+font-size: 24px;
+color: black;
+}
+h4{
+    width: 173px;
+    height: 19px;
+    top: 57px;
+    left: 150px;
+    font-size: 16px;
+    line-height: 19.2px;
+    color: black;   
+}
+h5{
+ height: 19px;   
+ font-size: 14px;
+ color: black;
+ width: 55px;
+}
+
